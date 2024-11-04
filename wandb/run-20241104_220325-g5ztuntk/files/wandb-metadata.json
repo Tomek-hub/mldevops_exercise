@@ -1,0 +1,42 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "3.12.3",
+  "startedAt": "2024-11-04T21:03:25.921722Z",
+  "program": "d:\\ProgramData\\SN\\mldevops_exercise\\zad2.ipynb",
+  "git": {
+    "remote": "git@github.com:Tomek-hub/mldevops_exercise.git",
+    "commit": "aad642db3eb0b62d13912e2324f91bc3a3aaaa23"
+  },
+  "email": "trogala@student.agh.edu.pl",
+  "root": "d:\\ProgramData\\SN\\mldevops_exercise",
+  "host": "DESKTOP-SS5C344",
+  "username": "MSI",
+  "executable": "d:\\ProgramData\\SN\\.venv\\Scripts\\python.exe",
+  "codePathLocal": "zad2.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "NVIDIA GeForce GTX 1050",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1000186310656",
+      "used": "736058273792"
+    }
+  },
+  "memory": {
+    "total": "17019867136"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1050",
+      "memoryTotal": "4294967296",
+      "cudaCores": 640,
+      "architecture": "Pascal"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
